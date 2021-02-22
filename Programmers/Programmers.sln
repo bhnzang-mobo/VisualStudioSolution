@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "프린터", "프린터\프�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "124나라", "124나라\124나라.vcxproj", "{42C32FBB-3386-4B1A-A54B-17D987AF0239}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "기능개발", "기능개발\기능개발.vcxproj", "{AD9CB3F2-97AE-41BE-AA91-7EE68F0FF746}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{42C32FBB-3386-4B1A-A54B-17D987AF0239}.Release|x64.Build.0 = Release|x64
 		{42C32FBB-3386-4B1A-A54B-17D987AF0239}.Release|x86.ActiveCfg = Release|Win32
 		{42C32FBB-3386-4B1A-A54B-17D987AF0239}.Release|x86.Build.0 = Release|Win32
+		{AD9CB3F2-97AE-41BE-AA91-7EE68F0FF746}.Debug|x64.ActiveCfg = Debug|x64
+		{AD9CB3F2-97AE-41BE-AA91-7EE68F0FF746}.Debug|x64.Build.0 = Debug|x64
+		{AD9CB3F2-97AE-41BE-AA91-7EE68F0FF746}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD9CB3F2-97AE-41BE-AA91-7EE68F0FF746}.Debug|x86.Build.0 = Debug|Win32
+		{AD9CB3F2-97AE-41BE-AA91-7EE68F0FF746}.Release|x64.ActiveCfg = Release|x64
+		{AD9CB3F2-97AE-41BE-AA91-7EE68F0FF746}.Release|x64.Build.0 = Release|x64
+		{AD9CB3F2-97AE-41BE-AA91-7EE68F0FF746}.Release|x86.ActiveCfg = Release|Win32
+		{AD9CB3F2-97AE-41BE-AA91-7EE68F0FF746}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
